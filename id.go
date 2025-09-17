@@ -11,6 +11,8 @@
 //
 // Windows users can use the `sysprep` toolchain to create images, which produce valid images
 // ready for distribution.
+//
+// This is based on https://github.com/denisbrodbeck/machineid which is no longer maintained.
 package machineid
 
 import (
