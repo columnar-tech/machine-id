@@ -1,4 +1,4 @@
-module github.com/columnar-tech/machine-id
+module github.com/zeroshade/machine-id
 
 go 1.24.4
 
